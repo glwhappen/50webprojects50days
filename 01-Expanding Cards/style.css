@@ -29,7 +29,7 @@ body {
 
   cursor: pointer; /* 鼠标手形 */
 
-  -webkit-transition: all 700ms ease-in; /* 过度动画 */
+  -webkit-transition: all 700ms ease-in; /* 过度动画 ease-in：由慢到快 */
 }
 
 .panel.active {

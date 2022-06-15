@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex; /* 开启flex布局 */
+  align-items: center; /* 上下居中 */
+  justify-content: center; /* 左右居中 */
+  height: 100vh; /* 高度占满屏幕 */
+  overflow: hidden; /* 防止滚动条出现 */
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  width: 90vw;
+}
+
+.panel {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  height: 80vh;
+  border-radius: 50px;
+  color: #fff;
+  flex: 0.5; /* 不活动的宽度占0.5 */
+  margin: 10px; 
+
+  cursor: pointer; /* 鼠标手形 */
+
+  -webkit-transition: all 700ms ease-in; /* 过度动画 */
+}
+
+.panel.active {
+  flex: 5;
+}
+
+@media(max-width: 480px) { /* 适配手机 */
+  .container {
+    width: 100vw;
+  }
+  .panel:nth-of-type(4),
+  .panel:nth-of-type(5) {
+    display: none;
+  }
+}

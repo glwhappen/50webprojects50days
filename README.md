@@ -30,3 +30,6 @@ https://github.com/bradtraversy/50projects50days
 - ease-in-out：由慢到快在到慢
 - cubic-bezier：特定的cubic-bezier曲线,所有值需在[0, 1]区域内，否则无效。
 
+## 03-Rotating Navigation Animation
+
+css transform中的rotate使用的比较多。可以练习旋转和定位

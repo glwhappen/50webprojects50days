@@ -14,3 +14,19 @@ https://github.com/bradtraversy/50projects50days
 今天学习了一下这个实例，感觉更深入的理解了一下flex布局，也或多或少的练习了一下js和其他css，很有收获。
 
 就是我写的这个没有添加图片中的文字，后续可能会把添加文字，定位文字专门的练习一下。
+
+
+## 02-Progress Steps
+
+这也太厉害了，很庆幸看到了这个教程，对css的学习帮助也太大了。
+
+-webkit-transition笔记
+
+时间函数(transition-timing-function)：
+- ease：逐渐慢下来
+- linear：线性过度
+- ease-in：由慢到快
+- ease-out：由快到慢
+- ease-in-out：由慢到快在到慢
+- cubic-bezier：特定的cubic-bezier曲线,所有值需在[0, 1]区域内，否则无效。
+

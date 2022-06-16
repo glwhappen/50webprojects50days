@@ -33,3 +33,9 @@ https://github.com/bradtraversy/50projects50days
 ## 03-Rotating Navigation Animation
 
 css transform中的rotate使用的比较多。可以练习旋转和定位
+
+## 04-Hidden Search Widget
+
+![](https://image.glwsq.cn/img/README-2022-06-16-22-35-21.png)
+
+一个简单的搜索框，学到了js的toggle方法，鼠标点击的时候进行class的添加和移除

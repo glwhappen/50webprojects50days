@@ -11,12 +11,16 @@ https://github.com/bradtraversy/50projects50days
 
 ## 01-Expanding Cards
 
+![](https://image.glwsq.cn/img/README-2022-06-16-22-37-51.png)
+
 今天学习了一下这个实例，感觉更深入的理解了一下flex布局，也或多或少的练习了一下js和其他css，很有收获。
 
 就是我写的这个没有添加图片中的文字，后续可能会把添加文字，定位文字专门的练习一下。
 
 
 ## 02-Progress Steps
+
+![](https://image.glwsq.cn/img/README-2022-06-16-22-38-47.png)
 
 这也太厉害了，很庆幸看到了这个教程，对css的学习帮助也太大了。
 
@@ -31,6 +35,8 @@ https://github.com/bradtraversy/50projects50days
 - cubic-bezier：特定的cubic-bezier曲线,所有值需在[0, 1]区域内，否则无效。
 
 ## 03-Rotating Navigation Animation
+
+![](https://image.glwsq.cn/img/README-2022-06-16-22-40-45.png)
 
 css transform中的rotate使用的比较多。可以练习旋转和定位
 

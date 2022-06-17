@@ -57,3 +57,9 @@ css transform中的rotate使用的比较多。可以练习旋转和定位
 ![](https://image.glwsq.cn/img/README-2022-06-17-10-17-59.png)
 
 滚动到屏幕内div会出现
+
+## 07-Split Landing Page
+
+![](https://image.glwsq.cn/img/README-2022-06-17-11-27-58.png)
+
+鼠标移入动画

@@ -45,3 +45,9 @@ css transform中的rotate使用的比较多。可以练习旋转和定位
 ![](https://image.glwsq.cn/img/README-2022-06-16-22-35-21.png)
 
 一个简单的搜索框，学到了js的toggle方法，鼠标点击的时候进行class的添加和移除
+
+## 05-Blurry Loading
+
+![](https://image.glwsq.cn/img/README-2022-06-17-00-00-05.png)
+
+练习js控制图片从模糊到清晰的过程，学习如何定位一个背景图片，js如何操作style

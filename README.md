@@ -51,3 +51,9 @@ css transform中的rotate使用的比较多。可以练习旋转和定位
 ![](https://image.glwsq.cn/img/README-2022-06-17-00-00-05.png)
 
 练习js控制图片从模糊到清晰的过程，学习如何定位一个背景图片，js如何操作style
+
+## 06-Scroll Animation
+
+![](https://image.glwsq.cn/img/README-2022-06-17-10-17-59.png)
+
+滚动到屏幕内div会出现

@@ -69,3 +69,10 @@ css transform中的rotate使用的比较多。可以练习旋转和定位
 很好看的波浪效果，但是赶紧不是很适合中文
 
 ![](https://image.glwsq.cn/img/README-2022-06-27-17-01-19.png)
+
+## 09-Sound Board
+
+所有按钮可以播放声音，并且每次点击会把其他的暂停
+
+![](https://image.glwsq.cn/img/README-2022-06-27-18-07-57.png)
+

@@ -76,3 +76,10 @@ css transform中的rotate使用的比较多。可以练习旋转和定位
 
 ![](https://image.glwsq.cn/img/README-2022-06-27-18-07-57.png)
 
+## 10-Dad Jokes
+
+英语中常见的“dad jokes”，指的就是爸爸讲的冷笑话。它们通常是双关语 （pun） 或谐音梗，以一句话或简短问答的形式出现。
+
+根本笑不出来，不懂外国人的梗。
+
+![](https://image.glwsq.cn/img/README-2022-06-27-18-54-15.png)
